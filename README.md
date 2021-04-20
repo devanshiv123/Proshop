@@ -23,4 +23,4 @@ only once.
 Admin can add or delete products. Admin can also create more admin users.
 The website is deployed on Heroku and is live on the following link:
 
-https://proshop-ecommerce-devanshi.herokuapp.com/admin/userlist
+https://proshop-ecommerce-devanshi.herokuapp.com/
